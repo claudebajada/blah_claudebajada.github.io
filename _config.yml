@@ -44,14 +44,14 @@ baseurl: "/blah_claudebajada.github.io" # the subpath of your site, e.g. /blog
 url: "https://claudebajada.github.io" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:"https://www.facebook.com/claude.bajada"
-github_url:"https://github.com/claudebajada/"
+facebook_url: "https://www.facebook.com/claude.bajada"
+github_url: "https://github.com/claudebajada/"
 googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url:"https://twitter.com/ClaudeBajada"
+twitter_url: "https://twitter.com/ClaudeBajada"
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
