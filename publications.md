@@ -8,8 +8,8 @@ order: 3
 # Peer Reviewed Publications
 
 1. **Bajada** C. J., Banks, B., Lambon Ralph M.A., Cloutman L.L. (2017), “Reconnecting
-with Joseph and Augusta Dejerine 100 years on”, Brain, 10, 1 2852-2759. DOI
-https://doi.org/10.1093/brain/awx225
+with Joseph and Augusta Dejerine 100 years on”, Brain, 10, 1 2852-2759. DOI: 
+[10.1093/brain/awx225](https://doi.org/10.1093/brain/awx225)
 2. Jackson R. L., **Bajada** C. J., Rice G. E., Cloutman L. L., Lambon Ralph M.A.
 (2017), “An emergent functional parcellation of the temporal cortex”,
 NeuroImage, *in press*, 10.1016/j.neuroimage.2017.04.024
