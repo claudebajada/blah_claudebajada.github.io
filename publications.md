@@ -5,7 +5,7 @@ icon: fa-book
 order: 3
 ---
 
-<h1> **Peer Reviewed Publications** </h1>
+# H1 Peer Reviewed Publications
 1. **Bajada** C. J., Banks, B., Lambon Ralph M.A., Cloutman L.L. (2017), “Reconnecting
 with Joseph and Augusta Dejerine 100 years on”, Brain, in press
 2. Jackson R. L., **Bajada** C. J., Rice G. E., Cloutman L. L., Lambon Ralph M.A.
@@ -28,7 +28,7 @@ stations in the ventral language network, Cortex, 69, 141-151. DOI:
 7. **Bajada** C. J. (2014). The Optimism Bias: A cognitive neuroscience perspective,
 Xjenza, 2, 32-36. DOI: 10.7423/XJENZA.2014.1.04
 
-<h1> **Conference Presentations** </h1>
+# H1 Conference Presentations
 1. Bajada C. J., Schreiber, J., Caspers S., (2018) Cortical Tract Length - a novel
 approach to structural brain organization. Accepted for presentation at the
 Organisation for Human Brain Mapping 2018, Singapore
