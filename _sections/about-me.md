@@ -6,7 +6,7 @@ order: 3
 
 <a href="#" class="image featured"><img src="assets/images/pic09.jpg" alt="" /></a>
 
-I am currently interested in building up a research team at the University of Malta, focused on three 
+I am currently building up a research team at the University of Malta, focused on three 
 research themes:
 
 Establishing a clear, consistant description of the white matter anatomy of the human brain. <br />
@@ -23,7 +23,3 @@ Prof. Matthew Lambon Ralph and Prof. Geoff Parker. My project involved developin
 approaches to understand the connectivity anatomy of the brain’s temporal lobe. My postdoctoral work has been at 
 forschungszentrum jülich under the supervision of Prof Svenja Caspers and at the University of Malta under the
 Supervision of Prof Richard Muscat and Dr Chris Zammit.
-
-
-
-
