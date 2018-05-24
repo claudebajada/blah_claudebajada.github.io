@@ -4,9 +4,11 @@ icon: fa-user
 order: 3
 ---
 
-![alt text][logo]
+[logo]
 
-[logo]: https://github.com/claudebajada/claude/tree/master/assets/images/pic09.jpg "Tractography"
+<a href="#" class="image featured"><img src="assets/images/pic09.jpg" alt="" /></a>
+
+[logo]: assets/images/pic09.jpg "Tractography"
 
 I graduated from medical school in 2010 and had two years experience as a practicing medical doctor. 
 I proceeded to complete an MSc in Cognitive Neuroscience from University College London (distinction) 
