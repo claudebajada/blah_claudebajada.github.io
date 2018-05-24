@@ -26,7 +26,9 @@ I am currently interested in building up a research team at the University of Ma
 research themes:
 
 Establishing a clear, consistant description of the white matter anatomy of the human brain.
+
 Investigating the historical insights on white matter anatomy.
+
 Using novel computational approaches to explore the human connectome.
 
 
