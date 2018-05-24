@@ -23,4 +23,4 @@ I completed a PhD at The University of Manchester under the supervision of Dr. [
 Prof. [Matt Lambon Ralph](https://scholar.google.com/citations?user=8LrzRnAAAAAJ&hl=en) and Prof. [Geoff Parker](https://scholar.google.com/citations?user=LA1hiv8AAAAJ&hl=en). My project involved developing mathematical and neuroimaging 
 approaches to understand the connectivity anatomy of the brain’s temporal lobe. My postdoctoral work has been at 
 [Forschungszentrum Jülich](http://www.fz-juelich.de/inm/inm-1/DE/Home/home_node.html;jsessionid=763CCE0A1FE5F891BA96313B93DA0221) under the supervision of Prof [Svenja Caspers](https://scholar.google.com/citations?user=qQehrP0AAAAJ&hl=en) and at the University of Malta under the
-supervision of Prof [Richard Muscat](https://www.um.edu.mt/search/staff-search/?searchtext=Richard+Muscat) and Dr [Chris Zammit](https://www.um.edu.mt/profile/christianmzammit).
+supervision of Prof [Richard Muscat](https://www.um.edu.mt/profile/richardmuscat) and Dr [Chris Zammit](https://www.um.edu.mt/profile/christianmzammit).
