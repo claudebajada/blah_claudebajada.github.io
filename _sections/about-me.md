@@ -25,9 +25,9 @@ Supervision of Prof Richard Muscat and Dr Chris Zammit.
 I am currently interested in building up a research team at the University of Malta, focused on three 
 research themes:
 
-1. Establishing a clear, consistant description of the white matter anatomy of the human brain
-2. Investigating the historical insights on white matter anatomy 
-3. Using novel computational approaches to explore the human connectome
+> Establishing a clear, consistant description of the white matter anatomy of the human brain
+> Investigating the historical insights on white matter anatomy 
+> Using novel computational approaches to explore the human connectome
 
 
 
