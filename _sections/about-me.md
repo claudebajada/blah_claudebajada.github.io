@@ -4,7 +4,7 @@ icon: fa-user
 order: 3
 ---
 
-<a href="#" class="image featured"><img src="assets/images/pic09.jpg" alt="" /></a>
+<a href="#" class="image featured"><img src="assets/images/pic10.jpg" alt="" /></a>
 
 I am currently building up a research team at the [University of Malta](https://www.um.edu.mt/), focused on three 
 research themes:
