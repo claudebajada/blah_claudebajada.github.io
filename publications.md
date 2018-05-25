@@ -110,29 +110,29 @@ order: 3
 
 <ol reversed>
 
-  <li> <b>Bajada</b> C. J. (2016) <a href=http://www.um.edu.mt/think/politics-policy-and-risky-business/>
+  <li> <b>Bajada</b> C. J. (2016) <a href=http://www.um.edu.mt/think/politics-policy-and-risky-business>
        Politics, Policy & Risky Business</a>, THINK Magazine, Vol 16 </li>
   
-  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/rumble-rumble-toil-and-tumble/>
+  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/rumble-rumble-toil-and-tumble>
   Rumble, Rumble, Toil and Tumble</a>, THINK Magazine, Vol 15 </li>
   
-  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/irrid-immur-id-dar-i-want-to-go-home/>
+  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/irrid-immur-id-dar-i-want-to-go-home>
        I want to go home (Irrid immur id-dar</a>, THINK Magazine, Vol 15 </li>
 
-  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/the-first-maltese-mathematics-textbook/>
+  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/the-first-maltese-mathematics-textbook>
        The First Maltese Mathematics Textbook</a>, THINK Magazine, Vol 14 </li>
 
-  <li> <b>Bajada</b> C. J. (2015) <a href=https://www.um.edu.mt/think/the-underbelly-of-the-graph/>
+  <li> <b>Bajada</b> C. J. (2015) <a href=https://www.um.edu.mt/think/the-underbelly-of-the-graph>
        The Underbelly of the Graph</a>, THINK Magazine, Vol 14 </li>
 
-  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/dont-throw-away-that-microwave/>
+  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/dont-throw-away-that-microwave>
        Don’t Throw Away that Microwave</a>, THINK Magazine, Vol 14 </li>
 
-  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/should-information-be-free/>
-       Should Information Be Free?, THINK Magazine online </li>
+  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/should-information-be-free>
+       Should Information Be Free? </a>, THINK Magazine online </li>
                                
-  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/sleep-nerves-and-maltese-neuroscience/> 
-  Sleep, Nerves, and Maltese Neuroscience</a>, THINK Magazine online </li>
+  <li> <b>Bajada</b> C. J. (2015) <a href=http://www.um.edu.mt/think/sleep-nerves-and-maltese-neuroscience> 
+       Sleep, Nerves, and Maltese Neuroscience </a>, THINK Magazine online </li>
   
 </ol>
 
