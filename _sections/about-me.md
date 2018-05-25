@@ -9,7 +9,7 @@ order: 3
 I am currently building up a research team at the [University of Malta](https://www.um.edu.mt/), focused on three 
 research themes:
 
-Establishing a clear, consistant description of the white matter anatomy of the human brain. <br />
+Establishing a clear, consistant description of the [white matter](https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/gray-and-white-matter) anatomy of the human brain. <br />
 Investigating the historical insights on white matter anatomy. <br />
 Using novel computational approaches to explore the human connectome.
 
