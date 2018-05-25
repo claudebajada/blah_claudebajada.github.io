@@ -15,7 +15,7 @@ Using novel computational approaches to explore the human connectome.
 
 I graduated from medical school in 2010 and had two years experience as a practicing medical doctor. 
 I proceeded to complete an MSc in Cognitive Neuroscience from University College London (distinction) 
-under the supervision of Prof. Joseph Devlin. During the MSc I investigated the structural connectivity of 
+under the supervision of Prof. [Joseph Devlin](https://scholar.google.com/citations?user=kCgH6AgAAAAJ&hl=en). During the MSc I investigated the structural connectivity of 
 the inferior frontal gyrus to the inferior parietal lobule and the anterior temporal lobe, areas that 
 have been implicated in phonological and semantic processing of language. 
 
