@@ -6,7 +6,7 @@ order: 3
 
 <!-- <a href="#" class="image featured"><img src="assets/images/pic10.jpg" alt="" /></a> -->
 
-I am currently a postdoctoral researcher, aiming at building up a research team at the [University of Malta](https://www.um.edu.mt/), focused on three research themes:
+I am a postdoctoral researcher at the [University of Malta](https://www.um.edu.mt/), aiming to build up a research team focused on three research themes:
 
 Establishing a clear, consistent description of the [white matter](https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/gray-and-white-matter) anatomy of the human brain. <br />
 Investigating the historical insights on white matter anatomy. <br />
